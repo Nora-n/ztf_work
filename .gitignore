@@ -14,3 +14,7 @@ Présentations/
 Ressources/
 
 Notebooks/.ipynb_checkpoints/
+
+*.fits
+
+Notebooks/__pycache__/
