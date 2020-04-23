@@ -18,3 +18,5 @@ Notebooks/.ipynb_checkpoints/
 *.fits
 
 Notebooks/__pycache__/
+
+Notebooks/SNe studies/.ipynb_checkpoints/
